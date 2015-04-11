@@ -1,0 +1,5 @@
+body{font-family: Tahoma, Verdana, Segoe, sans-serif;margin:0;background:rgb(238, 238, 238);}
+header{width:98%;height:40px;background:rgb(123, 185, 123);color:white;font-size:1.5em;line-height:40px;padding:5px 1%;position:relative;}
+header ul{margin:0;padding:0;list-style:none;font-size:0.5em;display:inline-flex;position:absolute;right:10px;}
+header ul li{display:inline-block;background:rgb(49, 121, 43);margin:0 5px;padding:0 5px;cursor:pointer;}
+section{width:100%;font-size:1em;padding:10px;}

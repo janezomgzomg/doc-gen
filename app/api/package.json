@@ -1,0 +1,30 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "the server for the doc generator",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "server": "npm install express --save",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janezomgzomg/doc-gen"
+  },
+  "keywords": [
+    "server",
+    "doc",
+    "quote",
+    "generator"
+  ],
+  "author": "Jane Mendonca",
+  "license": "GPL v2.0",
+  "bugs": {
+    "url": "https://github.com/janezomgzomg/doc-gen/issues"
+  },
+  "homepage": "https://github.com/janezomgzomg/doc-gen",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
