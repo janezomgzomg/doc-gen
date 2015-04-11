@@ -1,4 +1,5 @@
-# doc-gen
+#Document Generator
+#Running the server
 To run the server and to load the webpage, please do the following:
 
 1. cd into the doc-gen directory (root directory)
