@@ -1,0 +1,34 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "This app is a document generator which will allow the user to create templates and generate documents based on those templates. The user can also search for the data saved across the documents which will be indexed by Solr.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janezomgzomg/doc-gen"
+  },
+  "keywords": [
+    "document",
+    "doc",
+    "generator",
+    "quote",
+    "invoice"
+  ],
+  "author": "Jane Mendonca",
+  "license": "GPL v2.0",
+  "bugs": {
+    "url": "https://github.com/janezomgzomg/doc-gen/issues"
+  },
+  "homepage": "https://github.com/janezomgzomg/doc-gen",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.10.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^1.3.3",
+    "gulp-uglify": "^1.2.0"
+  }
+}
